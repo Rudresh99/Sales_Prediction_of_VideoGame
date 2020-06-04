@@ -1,0 +1,2 @@
+# Sales_Prediction_of_VideoGame
+The Sales Earning Prediction of Video Game model is used to predict the price of the new video game using its critics rating and unit price through the previous dimensions or features. Using these predictive model company can increase the requirement in certain field of video games such as the game is sport or is action like that through which the company predict which video game type produce more sales.
